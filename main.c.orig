@@ -12,7 +12,7 @@ feature1()
   //Sample Code for Feature 1
 
 =======
-//aditya
+>>>>>>> feature2
 Initial Security()
 {
  //Sample Code
@@ -22,5 +22,5 @@ Initial Security()
 
 feature2()
 {
-//aditya2
+
 }
